@@ -3,25 +3,17 @@ Data Analytics Portfolio: Python Web app, Data Analysis, Power BI Dashboards
 
 data-analytics-portfolio/
 │
-├── Python_Web_App/          
-│   ├── app/                
-│   ├── templates/          
-│   ├── static/             
-│   ├── requirements.txt    
-│   ├── README.md           
-│   └── app.py              
+├── Python_EDA_Project/
+│   ├── data/                # Store datasets (if public)
+│   ├── notebooks/           # Python notebooks (.ipynb)
+│   ├── images/              # Charts exported from Python
+│   └── README.md            # Explain project details
 │
-├── Python_Data_Analysis/    
-│   ├── data/               
-│   ├── notebooks/          
-│   ├── images/             
-│   ├── requirements.txt    
-│   └── README.md           
+├── PowerBI_Project/
+│   ├── dashboard.pbix       # Power BI dashboard file
+│   ├── images/              # Screenshots of dashboards
+│   └── README.md            # Explain dashboard purpose
 │
-├── PowerBI_Dashboard/       
-│   ├── dashboard.pbix      
-│   ├── images/             
-│   └── README.md           
-│
-└── README.md               
+└── README.md                # Main portfolio overview
+           
 

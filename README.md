@@ -1,9 +1,9 @@
 # Data-Analytics
-Data Analytics Portfolio: Python Web app, Data Analysis, Power BI Dashboards
+Data Analytics Portfolio: Python Data Analysis, Power BI Dashboards
 
 data-analytics-portfolio/
 │
-├── Python_EDA_Project/
+├── Python_Project/
 │   ├── data/                
 │   ├── notebooks/           
 │   ├── images/              

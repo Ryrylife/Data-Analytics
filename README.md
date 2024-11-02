@@ -1,5 +1,6 @@
 # Data-Analytics
 Data Analytics Portfolio: Python Data Analysis
+
 data-analytics-portfolio/
 │
 ├── Python_Project/
@@ -8,7 +9,8 @@ data-analytics-portfolio/
 │   ├── images/              
 │   └── README.md            
 
-**Data Science project for Customer churn analysis**
+**Data Science project for Customer churn analysis** 
+
 Task 1: Business Understanding & Hypothesis Framing
 - Determine the client data needed for analysis
 - Outline the techniques you'll use to investigate your client's problem
